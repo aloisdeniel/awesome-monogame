@@ -48,6 +48,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 ## Artificial Intelligence
 
 * [A-Pathfinding-and-movement-system-demo (★13)](https://github.com/Vault16Software/A-Pathfinding-and-movement-system-demo) - A* pathfinding and movement system in C# and MonoGame taken from the Vault-Tech engine
+* [AStar (★7)](https://github.com/leniel/AStar) - * Star Pathfinding Search Algorithm in C#.
 
 ## Effects
 
