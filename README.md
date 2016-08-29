@@ -7,7 +7,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
   
   * [General](#general)
-  * [Fully featured engines](#fully-featured-engines)
+  * [Engines](#engines)
   * [Tiles](#tiles)
   * [Animations](#animations)
   * [User Interfaces](#user-interfaces)
@@ -22,7 +22,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [**FNA (★294)**](https://github.com/FNA-XNA/FNA) - Desktop unique reimplementation of XNA 4.0 apis. It can be used to build desktop versions and be sure to have the same behavior on all platforms.
 * [DigitalRune (★34)](https://github.com/DigitalRune/DigitalRune) - .NET libraries for developing 3D games with XNA and MonoGame
 
-## Fully featured engines
+## Engines
 * [**Nez (★203)**](https://github.com/prime31/Nez) - Source code for the framework and the tools.
 * [**Monocle**](https://bitbucket.org/MattThorson/monocle-engine) - Framework created and maintained by [@MattThorson](https://mobile.twitter.com/MattThorson) for his games (Towerfall, Celeste, ...).
 * [**MonoGame.Extended (★194)**](https://github.com/craftworkgames/MonoGame.Extended) - A collection of classes and extensions to make it easier to make games with MonoGame.
