@@ -44,12 +44,12 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Farseer](https://farseerphysics.codeplex.com/) - Original physics engine with a collision detection system with realistic physics responses built for **XNA**.
 * [Farseer.Portable (★19)](https://github.com/craftworkgames/FarseerPhysics.Portable)- Farseer Physics compiled as a portable class library (PCL) against the PCL version of MonoGame.
 * [Jitter (★14)](https://github.com/RedpointGames/Jitter) - A maintained fork of the Jitter physics engine, which is used in Protogame.
+* [Humper](https://github.com/aloisdeniel/Humper) - Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) in C#.
 
 ## Artificial Intelligence
 
 * [A-Pathfinding-and-movement-system-demo (★13)](https://github.com/Vault16Software/A-Pathfinding-and-movement-system-demo) - A* pathfinding and movement system in C# and MonoGame taken from the Vault-Tech engine
 * [AStar (★7)](https://github.com/leniel/AStar) - A* Star Pathfinding Search Algorithm in C#.
-* [Humper](https://github.com/aloisdeniel/Humper) - Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) in C#.
 
 ## Effects
 
