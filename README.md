@@ -48,7 +48,8 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 ## Artificial Intelligence
 
 * [A-Pathfinding-and-movement-system-demo (★13)](https://github.com/Vault16Software/A-Pathfinding-and-movement-system-demo) - A* pathfinding and movement system in C# and MonoGame taken from the Vault-Tech engine
-* [AStar (★7)](https://github.com/leniel/AStar) - * Star Pathfinding Search Algorithm in C#.
+* [AStar (★7)](https://github.com/leniel/AStar) - A* Star Pathfinding Search Algorithm in C#.
+* [Humper](https://github.com/aloisdeniel/Humper) - Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) in C#.
 
 ## Effects
 
@@ -65,6 +66,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [LilyPath (★30)](https://github.com/jaquadro/LilyPath) - A 2D path and shape drawing library for MonoGame and XNA.
 * [FSMsharp (★14)](https://github.com/xanathar/FSMsharp) - Incredibly small finite state machine for .NET languages, written in C#. Useful for UIs and games.
 * [Mono.GameMath](https://github.com/mhutch/Mono.GameMath) - Optimized math for games, based on XNA APIs.
+* [Comora](https://github.com/aloisdeniel/Comora) - A simple 2D camera for Monogame.
 
 ## License
 
