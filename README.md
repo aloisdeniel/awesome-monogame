@@ -56,6 +56,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Penumbra (★32)](https://github.com/discosultan/penumbra) - 2D lighting with soft shadows for MonoGame.
 * [MGShaderEditor (★27)](https://github.com/procfxgen/MGShaderEditor) - Shader Editor for MonoGame's Effects.
 * [DeferredEngine (★3)](https://github.com/UncleThomy/DeferredEngine) - Deferred rendering engine written to make developing and understanding custom shaders easier.
+* [Aether.Shaders](https://github.com/tainicom/Aether.Extras/tree/master/Shaders) - Fast Approximate Anti-Aliasing shaders. Deferred rendering shaders.
 
 ## Consoles
 
