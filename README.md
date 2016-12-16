@@ -71,6 +71,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [FSMsharp (★14)](https://github.com/xanathar/FSMsharp) - Incredibly small finite state machine for .NET languages, written in C#. Useful for UIs and games.
 * [Mono.GameMath](https://github.com/mhutch/Mono.GameMath) - Optimized math for games, based on XNA APIs.
 * [Comora](https://github.com/aloisdeniel/Comora) - A simple 2D camera for Monogame.
+* [XNALibrary](https://github.com/tainicom/XNALibrary) - XNA/MonoGame tool library.  IsolatedStorageFile Wrapper, Garbage-free StringBuilder, Phasor, Timer, Scheduler, PMS/duty-cicle Vibrate control, Common Vertex types, DataStructures & Collections.
 
 ## License
 
