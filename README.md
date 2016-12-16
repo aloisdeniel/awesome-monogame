@@ -36,6 +36,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 ## Animations
 * [SpriterDotNet (★70)](https://github.com/loodakrawa/SpriterDotNet) - A simple, fast and efficient Spriter implementation in pure C#.
 * [**Spine (★1353)**](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
+* [Aether.Animation](https://github.com/tainicom/Aether.Extras/tree/master/Animation) - GPU & CPU Skinned animation for 3D models.
 
 ## User Interfaces
 * [EmptyKeys (★11)](https://github.com/EmptyKeys/UI_Engines) - Create UI from a WPF like XAML.
