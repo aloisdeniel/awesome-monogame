@@ -48,6 +48,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Farseer.Portable (★19)](https://github.com/craftworkgames/FarseerPhysics.Portable)- Farseer Physics compiled as a portable class library (PCL) against the PCL version of MonoGame.
 * [Jitter (★14)](https://github.com/RedpointGames/Jitter) - A maintained fork of the Jitter physics engine, which is used in Protogame.
 * [Humper](https://github.com/aloisdeniel/Humper) - Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) in C#.
+* [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D)- A 2D Physics simulation and collision detection system for MonoGame. Fork of the [Farseer Physics Engine](https://farseerphysics.codeplex.com/).
 
 ## Artificial Intelligence
 
