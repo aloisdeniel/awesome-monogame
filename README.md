@@ -50,6 +50,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Jitter](https://github.com/RedpointGames/Jitter) - ![GitHub stars](https://img.shields.io/github/stars/RedpointGames/Jitter.svg) - A maintained fork of the Jitter physics engine, which is used in Protogame.
 * [Humper](https://github.com/aloisdeniel/Humper) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Humper.svg) - Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) in C#.
 * [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D.svg) - A 2D Physics simulation and collision detection system for MonoGame. Fork of the [Farseer Physics Engine](https://farseerphysics.codeplex.com/).
+* [BEPUphysics](https://github.com/bepu/bepuphysics1) ![GitHub stars](https://img.shields.io/github/stars/bepu/bepuphysics1.svg) - Pure C# 3D real time physics simulation library. (With MonoGame examples)
 
 ## Artificial Intelligence
 
