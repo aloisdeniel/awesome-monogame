@@ -71,6 +71,10 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [**SadConsole**](https://github.com/Thraka/SadConsole) - ![GitHub stars](https://img.shields.io/github/stars/Thraka/SadConsole.svg) - A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games!
 * [QuakeConsole](https://github.com/discosultan/quake-console) - ![GitHub stars](https://img.shields.io/github/stars/discosultan/quake-console.svg) - Quake-style console for MonoGame.
 
+## AR/VR
+
+* [OculusRift4MonoGame](https://github.com/steemwheedle/OculusRift4MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/steemwheedle/OculusRift4MonoGame.svg) - Oculus Rift support for MonoGame.
+
 ## Helpers
 * [2D Primitives](https://bitbucket.org/C3/2d-xna-primitives/wiki/Home) - Extends `SpriteBatch` to allow to draw various shapes, mainly for debugging purpose.
 * [LilyPath](https://github.com/jaquadro/LilyPath) - ![GitHub stars](https://img.shields.io/github/stars/jaquadro/LilyPath.svg) - A 2D path and shape drawing library for MonoGame and XNA.
@@ -79,7 +83,6 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Comora](https://github.com/aloisdeniel/Comora) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Comora.svg) - A simple 2D camera for Monogame.
 * [XNALibrary](https://github.com/tainicom/XNALibrary) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/XNALibrary.svg) - XNA/MonoGame tool library.  IsolatedStorageFile Wrapper, Garbage-free StringBuilder, Phasor, Timer, Scheduler, InputState, PMS/duty-cicle Vibrate control, Common Vertex types, DataStructures & Collections.
 * [Transform](https://github.com/aloisdeniel/Transform) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Transform.svg) - Base objects for managing relative transforms.
-* [OculusRift4MonoGame](https://github.com/steemwheedle/OculusRift4MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/steemwheedle/OculusRift4MonoGame.svg) - Oculus Rift support for MonoGame.
 
 ## License
 
