@@ -79,6 +79,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Comora](https://github.com/aloisdeniel/Comora) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Comora.svg) - A simple 2D camera for Monogame.
 * [XNALibrary](https://github.com/tainicom/XNALibrary) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/XNALibrary.svg) - XNA/MonoGame tool library.  IsolatedStorageFile Wrapper, Garbage-free StringBuilder, Phasor, Timer, Scheduler, InputState, PMS/duty-cicle Vibrate control, Common Vertex types, DataStructures & Collections.
 * [Transform](https://github.com/aloisdeniel/Transform) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Transform.svg) - Base objects for managing relative transforms.
+* [OculusRift4MonoGame](https://github.com/steemwheedle/OculusRift4MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/steemwheedle/OculusRift4MonoGame.svg) - Oculus Rift support for MonoGame.
 
 ## License
 
