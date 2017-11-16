@@ -53,6 +53,8 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [Humper](https://github.com/aloisdeniel/Humper) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Humper.svg) - Collision detection for Axis-Aligned-Bounding-Boxes (aka AABB) in C#.
 * [Aether.Physics2D](https://github.com/tainicom/Aether.Physics2D) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/Aether.Physics2D.svg) - A 2D Physics simulation and collision detection system for MonoGame. Fork of the [Farseer Physics Engine](https://farseerphysics.codeplex.com/).
 * [BEPUphysics](https://github.com/bepu/bepuphysics1) ![GitHub stars](https://img.shields.io/github/stars/bepu/bepuphysics1.svg) - Pure C# 3D real time physics simulation library. (With MonoGame examples)
+* [VolatilePhysics](https://github.com/ashoulson/VolatilePhysics) ![GitHub stars](https://img.shields.io/github/stars/ashoulson/VolatilePhysics.svg) - A 2D Physics Library for Networked Games
+* [VelcroPhysics](https://github.com/VelcroPhysics/VelcroPhysics) ![GitHub stars](https://img.shields.io/github/stars/ashoulson/VolatilePhysics.svg) - High performance 2D collision detection system with realistic physics responses. (Ex-Farseer)
 
 ## Artificial Intelligence
 
