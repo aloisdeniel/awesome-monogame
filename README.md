@@ -61,7 +61,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 
 * [A-Pathfinding-and-movement-system-demo](https://github.com/Vault16Software/A-Pathfinding-and-movement-system-demo) - ![GitHub stars](https://img.shields.io/github/stars/Vault16Software/A-Pathfinding-and-movement-system-demo.svg) - A* pathfinding and movement system in C# and MonoGame taken from the Vault-Tech engine
 * [AStar](https://github.com/leniel/AStar) - ![GitHub stars](https://img.shields.io/github/stars/leniel/AStar.svg) - A* Star Pathfinding Search Algorithm in C#.
-* [Roy-T AStar]https://github.com/roy-t/AStar] - ![GitHub stars](https://img.shields.io/github/stars/roy-t/AStar.svg) - A 2D path finding library based on the A* algorithm for .NETStandard 1.0 and .Net 4.5 and higher. This library has no external dependencies.
+* [Roy-T AStar](https://github.com/roy-t/AStar) - ![GitHub stars](https://img.shields.io/github/stars/roy-t/AStar.svg) - A 2D path finding library based on the A* algorithm for .NETStandard 1.0 and .Net 4.5 and higher. This library has no external dependencies.
 
 ## Effects
 
