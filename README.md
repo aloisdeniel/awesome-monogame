@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for building cross-platform games with [Monogame framework](http://www.monogame.net/).
+A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for building cross-platform games with [MonoGame framework](http://www.monogame.net/).
 
 Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
   
@@ -18,7 +18,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
   * [Helpers](#helpers)
 
 ## General
-* [**Monogame**](https://github.com/MonoGame/MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame.svg) - Source code for the framework and its tools.
+* [**MonoGame**](https://github.com/MonoGame/MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame.svg) - Source code for the framework and its tools.
 * [**FNA**](https://github.com/FNA-XNA/FNA) - ![GitHub stars](https://img.shields.io/github/stars/FNA-XNA/FNA.svg) - Desktop unique reimplementation of XNA 4.0 apis. It can be used to build desktop versions and be sure to have the same behavior on all platforms.
 * [DigitalRune](https://github.com/DigitalRune/DigitalRune) - ![GitHub stars](https://img.shields.io/github/stars/DigitalRune/DigitalRune.svg) - .NET libraries for developing 3D games with XNA and MonoGame
 
@@ -28,7 +28,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [**MonoGame.Extended**](https://github.com/craftworkgames/MonoGame.Extended) - ![GitHub stars](https://img.shields.io/github/stars/craftworkgames/MonoGame.Extended.svg) - A collection of classes and extensions to make it easier to make games with MonoGame.
 * [**CocosSharp**](https://github.com/mono/CocosSharp) - ![GitHub stars](https://img.shields.io/github/stars/mono/CocosSharp.svg) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs.
 * [Protogame](https://github.com/RedpointGames/Protogame) - ![GitHub stars](https://img.shields.io/github/stars/RedpointGames/Protogame.svg) - Protogame is an open source game engine (MIT licensed) written on top of MonoGame and C#, designed to allow game developers to rapidly produce games within 48 hours.
-* [Gem](https://github.com/gmich/Gem) - ![GitHub stars](https://img.shields.io/github/stars/gmich/Gem.svg) - A cross-platform game engine with GUI and multiplayer support using Monogame, Farseer and Lidgren.
+* [Gem](https://github.com/gmich/Gem) - ![GitHub stars](https://img.shields.io/github/stars/gmich/Gem.svg) - A cross-platform game engine with GUI and multiplayer support using MonoGame, Farseer and Lidgren.
 * [Aether Engine](https://github.com/tainicom/Aether) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/Aether.svg) - A lightweight, modular game engine.
 * [Corund](https://github.com/impworks/corund) - ![Github stars](https://img.shields.io/github/stars/impworks/corund.svg) - An engine for 2D mobile games.
 
@@ -84,7 +84,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [LilyPath](https://github.com/jaquadro/LilyPath) - ![GitHub stars](https://img.shields.io/github/stars/jaquadro/LilyPath.svg) - A 2D path and shape drawing library for MonoGame and XNA.
 * [FSMsharp](https://github.com/xanathar/FSMsharp) - ![GitHub stars](https://img.shields.io/github/stars/xanathar/FSMsharp.svg) - Incredibly small finite state machine for .NET languages, written in C#. Useful for UIs and games.
 * [Mono.GameMath](https://github.com/mhutch/Mono.GameMath) - ![GitHub stars](https://img.shields.io/github/stars/mhutch/Mono.GameMath.svg) - Optimized math for games, based on XNA APIs.
-* [Comora](https://github.com/aloisdeniel/Comora) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Comora.svg) - A simple 2D camera for Monogame.
+* [Comora](https://github.com/aloisdeniel/Comora) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Comora.svg) - A simple 2D camera for MonoGame.
 * [XNALibrary](https://github.com/tainicom/XNALibrary) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/XNALibrary.svg) - XNA/MonoGame tool library.  IsolatedStorageFile Wrapper, Garbage-free StringBuilder, Phasor, Timer, Scheduler, InputState, PMS/duty-cicle Vibrate control, Common Vertex types, DataStructures & Collections.
 * [Transform](https://github.com/aloisdeniel/Transform) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Transform.svg) - Base objects for managing relative transforms.
 
