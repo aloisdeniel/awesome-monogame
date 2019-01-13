@@ -88,7 +88,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [XNALibrary](https://github.com/tainicom/XNALibrary) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/XNALibrary.svg) - XNA/MonoGame tool library.  IsolatedStorageFile Wrapper, Garbage-free StringBuilder, Phasor, Timer, Scheduler, InputState, PMS/duty-cicle Vibrate control, Common Vertex types, DataStructures & Collections.
 * [Transform](https://github.com/aloisdeniel/Transform) - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Transform.svg) - Base objects for managing relative transforms.
 * [MGLayers](https://github.com/0xFireball/MGLayers) - ![GitHub stars](https://img.shields.io/github/stars/0xFireball/MGLayers.svg) - Layered and packed asset loading extensions for MonoGame.
-* [FbonizziMonoGame](https://github.com/FrancescoBonizzi/FbonizziMonoGame) - It defines some tools for MonoGame (like a ParticleGenerator) and abstractions over Windows UWP and Android (like a SettingsRepository)
+* [FbonizziMonoGame](https://github.com/FrancescoBonizzi/FbonizziMonoGame) - ![GitHub stars](https://img.shields.io/github/stars/FrancescoBonizzi/FbonizziMonoGame.svg) - It defines some tools for MonoGame (like a ParticleGenerator) and abstractions over Windows UWP and Android (like a SettingsRepository)
 
 ## License
 
