@@ -10,6 +10,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
   * [Engines](#engines)
   * [Tiles](#tiles)
   * [Animations](#animations)
+  * [Audio](#audio)
   * [User Interfaces](#user-interfaces)
   * [Physics](#physics)
   * [Artificial Intelligence](#artificial-intelligence)
@@ -43,6 +44,9 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [**Spine**](https://github.com/EsotericSoftware/spine-runtimes) - ![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/spine-runtimes.svg) - 2D skeletal animation runtimes for Spine.
 * [Aether.Animation](https://github.com/tainicom/Aether.Extras/tree/master/Animation) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/Aether.Extras.svg) - GPU & CPU Skinned animation for 3D models.
 * [Spritesheet](https://github.com/aloisdeniel/Spritesheet)  - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Spritesheet.svg) - Simple helper for creating sprite based animations.
+
+## Audio
+* [ChaiFoxes.FMODAudio](https://github.com/gnFur/ChaiFoxes.FMODAudio/) - ![GitHub stars](https://img.shields.io/github/stars/gnFur/ChaiFoxes.FMODAudio.svg) - Cross-platform C# FMOD wrapper.
 
 ## User Interfaces
 * [EmptyKeys](https://github.com/EmptyKeys/UI_Engines) - ![GitHub stars](https://img.shields.io/github/stars/EmptyKeys/UI_Engines.svg) - Create UI from a WPF like XAML.
