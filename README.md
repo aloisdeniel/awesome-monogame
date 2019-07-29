@@ -12,6 +12,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
   * [Animations](#animations)
   * [Audio](#audio)
   * [User Interfaces](#user-interfaces)
+  * [Interop](#interop)
   * [Physics](#physics)
   * [Artificial Intelligence](#artificial-intelligence)
   * [Effects](#effects)
@@ -55,6 +56,10 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) - ![GitHub stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI.svg) - UI system.
 * [Myra](https://github.com/rds1983/Myra) - ![GitHub stars](https://img.shields.io/github/stars/rds1983/Myra.svg) - UI Library for MonoGame.
 * [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - ![GitHub stars](https://img.shields.io/github/stars/Apostolique/Apos.Gui.svg) - UI library for MonoGame.
+
+## Interop
+* [MonoGame.Forms](https://github.com/sqrMin1/MonoGame.Forms) - ![GitHub stars](https://img.shields.io/github/stars/sqrMin1/MonoGame.Forms) - the easiest way of integrating a MonoGame render window into your Windows Forms project.
+* [MonoGame.WpfCore](https://github.com/craftworkgames/MonoGame.WpfCore) - ![GitHub stars](https://img.shields.io/github/stars/craftworkgames/MonoGame.WpfCore) - MonoGame embedded inside a WPF app as a dotnet new template.
 
 ## Physics
 * [Farseer](https://farseerphysics.codeplex.com/) - Original physics engine with a collision detection system with realistic physics responses built for **XNA**.
