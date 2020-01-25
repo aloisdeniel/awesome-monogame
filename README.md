@@ -98,6 +98,10 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 
 * [OculusRift4MonoGame](https://github.com/steemwheedle/OculusRift4MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/steemwheedle/OculusRift4MonoGame.svg) - Oculus Rift support for MonoGame.
 
+# Networking
+
+* [MonoSync](https://github.com/janfokke/MonoSync) - ![GitHub stars](https://img.shields.io/github/stars/janfokke/MonoSync.svg) - Synchronization layer for multiplayer games.
+
 ## Helpers
 * [2D Primitives](https://bitbucket.org/C3/2d-xna-primitives/wiki/Home) - Extends `SpriteBatch` to allow to draw various shapes, mainly for debugging purpose.
 * [LilyPath](https://github.com/jaquadro/LilyPath) - ![GitHub stars](https://img.shields.io/github/stars/jaquadro/LilyPath.svg) - A 2D path and shape drawing library for MonoGame and XNA.
