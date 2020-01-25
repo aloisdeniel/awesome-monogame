@@ -19,6 +19,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
   * [Consoles](#consoles)
   * [Pipeline](#pipeline)
   * [AR/VR](#arvr)
+  * [Networking](#networking)
   * [Helpers](#helpers)
 
 ## General
