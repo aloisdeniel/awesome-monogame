@@ -98,7 +98,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 
 * [OculusRift4MonoGame](https://github.com/steemwheedle/OculusRift4MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/steemwheedle/OculusRift4MonoGame.svg) - Oculus Rift support for MonoGame.
 
-# Networking
+## Networking
 
 * [MonoSync](https://github.com/janfokke/MonoSync) - ![GitHub stars](https://img.shields.io/github/stars/janfokke/MonoSync.svg) - Synchronization layer for multiplayer games.
 
