@@ -21,6 +21,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
   * [AR/VR](#arvr)
   * [Networking](#networking)
   * [Helpers](#helpers)
+  * [Samples](#samples)
 
 ## General
 * [**MonoGame**](https://github.com/MonoGame/MonoGame) - ![GitHub stars](https://img.shields.io/github/stars/MonoGame/MonoGame.svg) - Source code for the framework and its tools.
@@ -114,6 +115,9 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [MGLayers](https://github.com/0xFireball/MGLayers) - ![GitHub stars](https://img.shields.io/github/stars/0xFireball/MGLayers.svg) - Layered and packed asset loading extensions for MonoGame.
 * [FbonizziMonoGame](https://github.com/FrancescoBonizzi/FbonizziMonoGame) - ![GitHub stars](https://img.shields.io/github/stars/FrancescoBonizzi/FbonizziMonoGame.svg) - It defines some tools for MonoGame (like a ParticleGenerator) and abstractions over Windows UWP and Android (like a SettingsRepository)
 * [Apos.Input](https://github.com/Apostolique/Apos.Input) - ![GitHub stars](https://img.shields.io/github/stars/Apostolique/Apos.Input.svg) - Input library for MonoGame.
+
+## Samples
+* [XNAGameStudio](https://github.com/SimonDarksideJ/XNAGameStudio) - ![GitHub stars](https://img.shields.io/github/stars/SimonDarksideJ/XNAGameStudio.svg) - The Education library from XNA Game Studios, valuable for MonoGame Developers for advanced samples.
 
 ## License
 
