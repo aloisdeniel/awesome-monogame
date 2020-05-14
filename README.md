@@ -105,7 +105,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [MonoSync](https://github.com/janfokke/MonoSync) - ![GitHub stars](https://img.shields.io/github/stars/janfokke/MonoSync.svg) - Synchronization layer for multiplayer games.
 
 ## Helpers
-* [2D Primitives](https://bitbucket.org/C3/2d-xna-primitives/wiki/Home) - Extends `SpriteBatch` to allow to draw various shapes, mainly for debugging purpose.
+* [2D Primitives](https://github.com/DoogeJ/MonoGame.Primitives2D)- ![GitHub stars](https://img.shields.io/github/stars/DoogeJ/MonoGame.Primitives2D.svg) -  Extends `SpriteBatch` to allow to draw various shapes, mainly for debugging purpose.
 * [LilyPath](https://github.com/jaquadro/LilyPath) - ![GitHub stars](https://img.shields.io/github/stars/jaquadro/LilyPath.svg) - A 2D path and shape drawing library for MonoGame and XNA.
 * [FSMsharp](https://github.com/xanathar/FSMsharp) - ![GitHub stars](https://img.shields.io/github/stars/xanathar/FSMsharp.svg) - Incredibly small finite state machine for .NET languages, written in C#. Useful for UIs and games.
 * [Mono.GameMath](https://github.com/mhutch/Mono.GameMath) - ![GitHub stars](https://img.shields.io/github/stars/mhutch/Mono.GameMath.svg) - Optimized math for games, based on XNA APIs.
