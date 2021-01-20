@@ -30,7 +30,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 
 ## Engines
 * [**Nez**](https://github.com/prime31/Nez) - ![GitHub stars](https://img.shields.io/github/stars/prime31/Nez.svg) - Source code for the framework and the tools.
-* [**Monocle**](https://bitbucket.org/MattThorson/monocle-engine) - Framework created and maintained by [@MattThorson](https://mobile.twitter.com/MattThorson) for his games (Towerfall, Celeste, ...).
+* [**Monocle**](https://github.com/JamesMcMahon/monocle-engine) - Framework created and maintained by [@MaddyThorson](https://mobile.twitter.com/MaddyThorson) for their games (Towerfall, Celeste, ...).
 * [**MonoGame.Extended**](https://github.com/craftworkgames/MonoGame.Extended) - ![GitHub stars](https://img.shields.io/github/stars/craftworkgames/MonoGame.Extended.svg) - A collection of classes and extensions to make it easier to make games with MonoGame.
 * [**CocosSharp**](https://github.com/mono/CocosSharp) - ![GitHub stars](https://img.shields.io/github/stars/mono/CocosSharp.svg) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs.
 * [Protogame](https://github.com/RedpointGames/Protogame) - ![GitHub stars](https://img.shields.io/github/stars/RedpointGames/Protogame.svg) - Protogame is an open source game engine (MIT licensed) written on top of MonoGame and C#, designed to allow game developers to rapidly produce games within 48 hours.
