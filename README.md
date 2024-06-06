@@ -49,7 +49,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 ## Animations
 * [SpriterDotNet](https://github.com/loodakrawa/SpriterDotNet) - ![GitHub stars](https://img.shields.io/github/stars/loodakrawa/SpriterDotNet.svg) - A simple, fast and efficient Spriter implementation in pure C#.
 * [**Spine**](https://github.com/EsotericSoftware/spine-runtimes) - ![GitHub stars](https://img.shields.io/github/stars/EsotericSoftware/spine-runtimes.svg) - 2D skeletal animation runtimes for Spine.
-* [Aether.Animation](https://github.com/tainicom/Aether.Extras/tree/master/Animation) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/Aether.Extras.svg) - GPU & CPU Skinned animation for 3D models.
+* [Aether.Animation](https://github.com/nkast/Aether.Extras/tree/main/Animation) - ![GitHub stars](https://img.shields.io/github/stars/nkast/Aether.Extras.svg) - GPU & CPU Skinned animation for 3D models.
 * [Spritesheet](https://github.com/aloisdeniel/Spritesheet)  - ![GitHub stars](https://img.shields.io/github/stars/aloisdeniel/Spritesheet.svg) - Simple helper for creating sprite based animations.
 
 ## Audio
