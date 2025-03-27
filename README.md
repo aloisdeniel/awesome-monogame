@@ -62,6 +62,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) - ![GitHub stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI.svg) - UI system.
 * [Myra](https://github.com/rds1983/Myra) - ![GitHub stars](https://img.shields.io/github/stars/rds1983/Myra.svg) - UI Library for MonoGame.
 * [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - ![GitHub stars](https://img.shields.io/github/stars/Apostolique/Apos.Gui.svg) - UI library for MonoGame.
+* [Avalonia Monogame Dock Template](https://github.com/vilten/Avalonia-Monogame-Dock-Template) - ![GitHub stars](https://img.shields.io/github/stars/vilten/Avalonia-Monogame-Dock-Template.svg) - Avalonia UI with docking system and Monogame window, for creating your own graphic desktop software.
 
 ## Interop
 * [MonoGame.Forms](https://github.com/sqrMin1/MonoGame.Forms) - ![GitHub stars](https://img.shields.io/github/stars/sqrMin1/MonoGame.Forms) - the easiest way of integrating a MonoGame render window into your Windows Forms project.
