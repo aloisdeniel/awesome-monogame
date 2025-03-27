@@ -34,6 +34,8 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [**MonoGame.Extended**](https://github.com/craftworkgames/MonoGame.Extended) - ![GitHub stars](https://img.shields.io/github/stars/craftworkgames/MonoGame.Extended.svg) - A collection of classes and extensions to make it easier to make games with MonoGame.
 * [**CocosSharp**](https://github.com/mono/CocosSharp) - ![GitHub stars](https://img.shields.io/github/stars/mono/CocosSharp.svg) - CocosSharp is a C# implementation of the Cocos2D and Cocos3D APIs that runs on any platform where MonoGame runs.
 * [**Murder**](https://github.com/isadorasophia/murder) - ![GitHub stars](https://img.shields.io/github/stars/isadorasophia/murder.svg) - Murder is a pixel art ECS game engine.
+* [**FlatRedBall**](https://github.com/vchelaru/FlatRedBall/) - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/FlatRedBall.svg) - A game development platform, built in C#, that's perfect for indies or big studios! Built on top of MonoGame.
+* [**SadConsole**](https://github.com/Thraka/SadConsole) - ![GitHub stars](https://img.shields.io/github/stars/Thraka/SadConsole.svg) - A .NET ascii/ansi console engine written in C# for MonoGame and SFML. Create your own text roguelike (or other) games!
 * [Protogame](https://github.com/RedpointGames/Protogame) - ![GitHub stars](https://img.shields.io/github/stars/RedpointGames/Protogame.svg) - Protogame is an open source game engine (MIT licensed) written on top of MonoGame and C#, designed to allow game developers to rapidly produce games within 48 hours.
 * [Gem](https://github.com/gmich/Gem) - ![GitHub stars](https://img.shields.io/github/stars/gmich/Gem.svg) - A cross-platform game engine with GUI and multiplayer support using MonoGame, Farseer and Lidgren.
 * [Aether Engine](https://github.com/tainicom/Aether) - ![GitHub stars](https://img.shields.io/github/stars/tainicom/Aether.svg) - A lightweight, modular game engine.
@@ -57,10 +59,12 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [ChaiFoxes.FMODAudio](https://github.com/gnFur/ChaiFoxes.FMODAudio/) - ![GitHub stars](https://img.shields.io/github/stars/gnFur/ChaiFoxes.FMODAudio.svg) - Cross-platform C# FMOD wrapper with support for Windows, Linux and Android.
 
 ## User Interfaces
+* [**Gum**](https://github.com/vchelaru/Gum/) - ![GitHub stars](https://img.shields.io/github/stars/vchelaru/Gum.svg) - Flexible layout tool and runtime for creating UI on any platform.
 * [EmptyKeys](https://github.com/EmptyKeys/UI_Engines) - ![GitHub stars](https://img.shields.io/github/stars/EmptyKeys/UI_Engines.svg) - Create UI from a WPF like XAML.
 * [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) - ![GitHub stars](https://img.shields.io/github/stars/RonenNess/GeonBit.UI.svg) - UI system.
 * [Myra](https://github.com/rds1983/Myra) - ![GitHub stars](https://img.shields.io/github/stars/rds1983/Myra.svg) - UI Library for MonoGame.
 * [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - ![GitHub stars](https://img.shields.io/github/stars/Apostolique/Apos.Gui.svg) - UI library for MonoGame.
+* [Avalonia Monogame Dock Template](https://github.com/vilten/Avalonia-Monogame-Dock-Template) - ![GitHub stars](https://img.shields.io/github/stars/vilten/Avalonia-Monogame-Dock-Template.svg) - Avalonia UI with docking system and Monogame window, for creating your own graphic desktop software.
 
 ## Interop
 * [MonoGame.Forms](https://github.com/sqrMin1/MonoGame.Forms) - ![GitHub stars](https://img.shields.io/github/stars/sqrMin1/MonoGame.Forms) - the easiest way of integrating a MonoGame render window into your Windows Forms project.
