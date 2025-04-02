@@ -80,6 +80,7 @@ Inspired by [awesome-xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 * [VolatilePhysics](https://github.com/ashoulson/VolatilePhysics) ![GitHub stars](https://img.shields.io/github/stars/ashoulson/VolatilePhysics.svg) - A 2D Physics Library for Networked Games
 * [VelcroPhysics](https://github.com/VelcroPhysics/VelcroPhysics) ![GitHub stars](https://img.shields.io/github/stars/VelcroPhysics/VelcroPhysics.svg) - High performance 2D collision detection system with realistic physics responses. (Ex-Farseer)
 * [BulletSharp](https://github.com/AndresTraks/BulletSharp) ![GitHub stars](https://img.shields.io/github/stars/AndresTraks/BulletSharp.svg) - NET wrapper for the Bullet physics library.
+* [Box2D.NET](https://github.com/ikpil/Box2D.NET) ![GitHub stars](https://img.shields.io/github/stars/ikpil/Box2D.NET.svg) - A C# port of Box2D, a 2D physics engine for games, servers, and Unity3D.
 
 ## Artificial Intelligence
 
